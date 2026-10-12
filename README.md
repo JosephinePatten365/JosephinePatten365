@@ -6,7 +6,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 <b>Hack the Box Machines</b>
--
+<br>
 <b>Port Swigger Labs</b>
 
 <h2>📃 Certifications: </h2>
