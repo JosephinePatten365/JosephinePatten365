@@ -5,8 +5,12 @@
 -->
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
+<b>Hack the Box Machines</b>
+-
+<b>Port Swigger Labs</b>
 
 <h2>📃 Certifications: </h2>
+<a href="https://cp.certmetrics.com/comptia/en/public/verify/credential/79617520973142daac0e04b73932c481">CompTIA Security+</a>
 
 <!-- THIS IS JOSH MADAKOR PORTFOLIO EXAMPLE
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
